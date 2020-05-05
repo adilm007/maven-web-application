@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.232.1.10:8081/repository/neel-releases/</url>
+	      <url>http://52.66.198.64:8081/repository/neel-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.232.1.10:8081/repository/neel-snapshot/</url>
+	      <url>http://52.66.198.64:8081/repository/neel-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
